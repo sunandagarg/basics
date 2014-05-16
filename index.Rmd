@@ -11,7 +11,7 @@ widgets     : [quiz, bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Data Structures[^1]
+## Data Structures
 
 |    | Homogeneous   | Heterogeneous |
 |----|---------------|---------------|
